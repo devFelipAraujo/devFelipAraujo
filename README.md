@@ -81,8 +81,8 @@
 
 <div align="center">
 
-🔗 [LinkedIn](https://linkedin.com/in/**YOUR_USERNAME**)  
-✉️ [Email](mailto:**YOUR_EMAIL@example.com**)
+🔗 [LinkedIn](https://linkedin.com/in/felipe-araujo)  
+
 
 </div>
 
